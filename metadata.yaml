@@ -1,0 +1,30 @@
+_repo: La-Esfinge-Maragata-Novela_51724
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Espina, Concha
+    aliases:
+    - Tagle, Concha Espina y
+    - Serna, Concha Espina de
+    birthdate: 1869
+    deathdate: 1955
+    gutenberg_agent_id: '4058'
+    url: http://www.gutenberg.org/2009/agents/4058
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Concha_Espina
+    - http://es.wikipedia.org/wiki/Concha_Espina
+description: ''
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51724'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- 20th century'
+- GITenberg
+title: 'La Esfinge Maragata: Novela'
+url: http://www.gutenberg.org/ebooks/51724
